@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos1\Bài tập tuần 2\Interface\bin\Debug\Interface.exe.config
+C:\Users\Admin\source\repos1\Bài tập tuần 2\Interface\bin\Debug\Interface.exe
+C:\Users\Admin\source\repos1\Bài tập tuần 2\Interface\bin\Debug\Interface.pdb
+C:\Users\Admin\source\repos1\Bài tập tuần 2\Interface\obj\Debug\Interface.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos1\Bài tập tuần 2\Interface\obj\Debug\Interface.exe
+C:\Users\Admin\source\repos1\Bài tập tuần 2\Interface\obj\Debug\Interface.pdb

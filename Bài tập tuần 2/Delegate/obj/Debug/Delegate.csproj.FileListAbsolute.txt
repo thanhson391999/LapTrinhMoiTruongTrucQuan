@@ -1,0 +1,5 @@
+C:\Users\Admin\source\repos1\Bài tập tuần 2\Delegate\bin\Debug\Delegate.exe.config
+C:\Users\Admin\source\repos1\Bài tập tuần 2\Delegate\bin\Debug\Delegate.exe
+C:\Users\Admin\source\repos1\Bài tập tuần 2\Delegate\bin\Debug\Delegate.pdb
+C:\Users\Admin\source\repos1\Bài tập tuần 2\Delegate\obj\Debug\Delegate.exe
+C:\Users\Admin\source\repos1\Bài tập tuần 2\Delegate\obj\Debug\Delegate.pdb
