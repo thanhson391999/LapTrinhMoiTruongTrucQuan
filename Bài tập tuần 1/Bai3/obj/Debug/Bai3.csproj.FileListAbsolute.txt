@@ -1,0 +1,5 @@
+C:\Users\Admin\source\repos1\Bài tập tuần 1\Bai3\bin\Debug\Bai3.exe.config
+C:\Users\Admin\source\repos1\Bài tập tuần 1\Bai3\bin\Debug\Bai3.exe
+C:\Users\Admin\source\repos1\Bài tập tuần 1\Bai3\bin\Debug\Bai3.pdb
+C:\Users\Admin\source\repos1\Bài tập tuần 1\Bai3\obj\Debug\Bai3.exe
+C:\Users\Admin\source\repos1\Bài tập tuần 1\Bai3\obj\Debug\Bai3.pdb
