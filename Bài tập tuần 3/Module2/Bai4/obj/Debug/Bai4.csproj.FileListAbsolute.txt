@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\Bai4\bin\Debug\Bai4.exe.config
+C:\Users\Admin\source\repos\Bai4\bin\Debug\Bai4.exe
+C:\Users\Admin\source\repos\Bai4\bin\Debug\Bai4.pdb
+C:\Users\Admin\source\repos\Bai4\obj\Debug\Bai4.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Bai4\obj\Debug\Bai4.frmDockvaAnchor.resources
+C:\Users\Admin\source\repos\Bai4\obj\Debug\Bai4.Properties.Resources.resources
+C:\Users\Admin\source\repos\Bai4\obj\Debug\Bai4.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Bai4\obj\Debug\Bai4.exe
+C:\Users\Admin\source\repos\Bai4\obj\Debug\Bai4.pdb
