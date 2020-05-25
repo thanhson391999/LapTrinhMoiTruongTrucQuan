@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DemoGiuaky.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="sss" Type="System.Windows.Forms.ToolTipIcon" Scope="User">
+      <Value Profile="(Default)">Warning</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\DemoGiuaky\obj\Debug\DemoGiuaky.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\DemoGiuaky\obj\Debug\DemoGiuaky.Form1.resources
+C:\Users\Admin\Desktop\DemoGiuaky\obj\Debug\DemoGiuaky.Properties.Resources.resources
+C:\Users\Admin\Desktop\DemoGiuaky\obj\Debug\DemoGiuaky.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\DemoGiuaky\obj\Debug\DemoGiuaky.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DemoGiuaky\bin\Debug\DemoGiuaky.exe.config
+C:\Users\Admin\Desktop\DemoGiuaky\bin\Debug\DemoGiuaky.exe
+C:\Users\Admin\Desktop\DemoGiuaky\bin\Debug\DemoGiuaky.pdb
+C:\Users\Admin\Desktop\DemoGiuaky\obj\Debug\DemoGiuaky.exe
+C:\Users\Admin\Desktop\DemoGiuaky\obj\Debug\DemoGiuaky.pdb
+C:\Users\Admin\Desktop\DemoGiuaky\obj\Debug\DemoGiuaky.Form2.resources
+C:\Users\Admin\Desktop\DemoGiuaky\obj\Debug\DemoGiuaky.Form3.resources
